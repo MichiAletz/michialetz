@@ -1,5 +1,5 @@
 
-<h1 align="center">Hola mundo El Aletz</h1>
+<h1 align="center">Hola mundo </h1>
 <h3 align="center">Aprendiendo a programar</h3>
 
 - ⚡ Dato curioso **soy skater**
