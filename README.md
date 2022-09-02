@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trofeo"><img src="https ://github-profile-trophy.vercel.app/?username=michialetz" alt="michialetz" /></a> </p>
 
-- ⚡ Dato curioso **i am Skater**
+- ⚡ Dato curioso **soy patinador**
 
 <h3 align="left ">Conéctate conmigo:</h3>
 <p align="left">
